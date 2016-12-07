@@ -31,5 +31,6 @@ I then went in and altered this file by adding these lines.
 
 Will attempt to synchronise again - using FILE Upload again
 
-
+++++++++++++++++++++++++++++++
+Edited again within Git hub and will attempt to get it back to local drive
 
