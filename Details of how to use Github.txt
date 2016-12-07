@@ -23,5 +23,13 @@ Then the change was COMMITTED which moved the file from my local drive into this
 
 The I went in within Github and added these three lines of text and committed the changes
 
+===================
+Had some problems with file locations….so deleted Ruby_1 from my local drive then under usr/David typed…git clone https://github.com/DaveATryIt/Ruby_1
+
+This created directory Ruby_1 and copied all the files into it.
+I then went in and altered this file by adding these lines.
+
+Will attempt to synchronise again - using FILE Upload again
+
 
 
