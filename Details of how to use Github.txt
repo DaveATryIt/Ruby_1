@@ -16,3 +16,12 @@ Looked at /usr/David/ lo and behold the directory and contents were there.
 
 
 Added this file to the directory and will attempt to synchronise with the Github remote…
+===================================================================
+Synchronisation was done by using FILE Upload - choosing it from my hard drive
+
+Then the change was COMMITTED which moved the file from my local drive into this public repository
+
+The I went in within Github and added these three lines of text and committed the changes
+
+
+
