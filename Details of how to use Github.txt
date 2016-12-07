@@ -1,0 +1,18 @@
+To get to this….
+Created account on Github
+Created blank New Repository called Ruby_1
+With one file README.md
+
+On Mac Terminal checked that Git was installed
+Installed GIT Desktop (Git GUI)
+
+Went into Github under my new account
+Selected the Ruby_1 Repository - and then selected Clone or download
+Then selected to open it in Desktop….selecting David as the location
+Then closed Desktop….
+Closed Github
+
+Looked at /usr/David/ lo and behold the directory and contents were there.
+
+
+Added this file to the directory and will attempt to synchronise with the Github remote…
